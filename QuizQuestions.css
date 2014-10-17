@@ -1,0 +1,90 @@
+#header {
+	height: 50px;
+    width: 500px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    bottom: -100px;
+    font-family: Jokerman;
+    font-size: 36px;
+}
+
+#downer {
+	height: 50px;
+    width: 1350px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: left;
+    position: relative;
+	bottom: -585px;
+    opacity: 0.5;
+    font-size: 24px;
+    font-family: Garamond;
+    font-style: italic;
+}
+
+#upper {
+	height: 50px;
+    width: 100px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+	position: relative;
+	top: -110px;
+	float: left;
+    font-family: Garamond;
+    font-size: 36px;
+    color: black;
+    opacity: 0.5;
+}
+
+#lower {
+    height: 50px;
+    width: 155px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    bottom: -400px;
+    font-family: Garamond;
+    font-size:36px;
+    color: black;
+    opacity: 0.5;
+    
+}
+
+#middle {
+    height: 300px;
+    width: 500px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+    bottom: -300px;
+    opacity: 0.5;
+}
+
+body {
+    background-image: url('downloadOLORI.jpg');
+    background-size: cover;
+}

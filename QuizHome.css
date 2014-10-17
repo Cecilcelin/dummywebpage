@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 span {
+    font-family: Jokerman;
+    font-size: 60px;
+}
+
+#footer {
+    height: 50px;
+    width: 120px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+	bottom: -250px;
+    font-family: Garamond;
+    text-decoration: none;
+    font-size: 36px;
+    color: black;
+    opacity: 0.5;
+}
+
+#downer {
+	height: 50px;
+    width: 1350px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: right;
+    position: relative;
+	bottom: -346px;
+    opacity: 0.5;
+    font-family: Garamond;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#upper {
+	height: 50px;
+    width: 100px;
+    border-color: red;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+	position: relative;
+	top: -350px;
+	float: left;
+    font-family: Garamond;
+    font-size: 36px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.5;
+}
+
+body {
+    background-image: url('downloadOLORI.jpg');
+    background-size: cover;
+}

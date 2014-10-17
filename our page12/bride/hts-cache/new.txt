@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:18:41	321/321	---M--	403	error ('Forbidden')	text/html	date:Wed,%2015%20Oct%202014%2009:18:47%20GMT	http://www.brideprice.com.ng/	C:/Users/OSES%20COLLECT/Desktop/our%20page/bride/www.brideprice.com.ng/index.html	(from )
+10:18:41	331/331	---M--	403	error ('Forbidden')	text/html	date:Wed,%2015%20Oct%202014%2009:18:47%20GMT	http://www.brideprice.com.ng/robots.txt		(from )
